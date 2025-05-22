@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"woodenpack",
-    "path":"sprites/woodenpack/woodenpack.yy",
+    "name":"carrots",
+    "path":"sprites/carrots/carrots.yy",
   },
   "spriteMaskId":null,
   "visible":true,

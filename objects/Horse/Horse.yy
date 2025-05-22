@@ -32,6 +32,8 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"horsesprite","filters":[],"listItems":[],"multiselect":false,"name":"horsesprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"testsquare","path":"sprites/testsquare/testsquare.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"testsquare","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"horsetype","filters":[],"listItems":[],"multiselect":false,"name":"horsetype","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"square","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"horsecolor","filters":[],"listItems":[],"multiselect":false,"name":"horsecolor","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FF636363","varType":7,},
+    {"$GMObjectProperty":"v1","%Name":"horsespeed","filters":[],"listItems":[],"multiselect":false,"name":"horsespeed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

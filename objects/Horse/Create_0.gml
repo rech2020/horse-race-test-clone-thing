@@ -1,6 +1,7 @@
 sprite_index = horsesprite;
 
-// This makes collision match the sprite's shape automatically
+// "This makes collision match the sprite's shape automatically"
+// basically just makes it use the hitbox that is embedded in the sprite
 mask_index = -1; // -1 means "use current sprite's mask"
 
 // Set initial movement speed and direction
